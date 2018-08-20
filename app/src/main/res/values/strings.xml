@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DynamicViews2</string>
+    <string name="action_save">Save</string>
+    <string-array name="types">
+        <item>Mobile</item>
+        <item>Office</item>
+        <item>Home</item>
+    </string-array>
+</resources>
